@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spacegame</string>
+    <string name="start_game">Start game!</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="press_to_restart">Press to restart!</string>
+    <string name="health">Health: </string>
+    <string name="distance_traveled">Distance: </string>
+    <string name="longest_distance_traveled">Longest distance: </string>
+    <string name="distance_value"> Km</string>
+
+</resources>
